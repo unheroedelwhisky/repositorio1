@@ -1,1 +1,2 @@
 Modifico el archivo en "rama2"
+modifico el archivo desde "rama2" en "rama2"
