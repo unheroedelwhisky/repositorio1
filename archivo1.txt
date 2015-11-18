@@ -1,1 +1,2 @@
 Modifico el archivo en "rama2"
+Modifico desde "rama1" ya mergeado con "rama2"
