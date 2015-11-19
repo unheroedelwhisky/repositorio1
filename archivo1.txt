@@ -1,4 +1,4 @@
-Modifico el archivo en "rama2"
+123456789Modifico el archivo en "rama2"
 
 modifico el archivo desde "rama2" en "rama2"
 Modifico desde "rama1" ya mergeado con "rama2"
